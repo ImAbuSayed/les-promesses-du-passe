@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, je ne vois que le feu de tes yeux,
+> Tu sais bébé qu'entre nous c'est un jeu dangereux.
+> Let's drive away, on laisse la ville derrière nous,
+> Tes lèvres me promettent une nuit de dingue, un truc de fou.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
