@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-promesses-du-passe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Les Promesses Du Passé](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-promesses-du-passe/) |
+| **Get License** | [Get License For Les Promesses Du Passé](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-promesses-du-passe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d94151de570815935e699eb0546cc399bd3e50ea528cf463380118583de61aa1` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
